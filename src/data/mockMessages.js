@@ -1,0 +1,32 @@
+export const MOCK_RESEARCH = [
+  {
+    id: 1,
+    title: "Impact de l'ergonomie cognitive sur la rétention d'information",
+    author: 'Amara Diallo',
+    field: 'Neurosciences',
+    contributors: 7,
+    edits: 23,
+    status: 'actif',
+    excerpt: "Cette recherche examine comment les principes d'ergonomie cognitive influencent la mémorisation à long terme dans les environnements numériques immersifs.",
+  },
+  {
+    id: 2,
+    title: "Modèles d'attention dans les interfaces homme-machine de nouvelle génération",
+    author: 'Karim Benali',
+    field: 'IA / HMI',
+    contributors: 4,
+    edits: 41,
+    status: 'actif',
+    excerpt: "Analyse comparative des modèles d'attention transformer et leur application aux systèmes d'interface adaptatifs.",
+  },
+  {
+    id: 3,
+    title: 'Protocoles de communication visuelle en contexte scientifique distribué',
+    author: 'Lena Fischer',
+    field: 'Design UX',
+    contributors: 9,
+    edits: 18,
+    status: 'revue',
+    excerpt: 'Étude des stratégies de représentation visuelle permettant de transmettre des concepts complexes dans des équipes de recherche géographiquement dispersées.',
+  },
+]
